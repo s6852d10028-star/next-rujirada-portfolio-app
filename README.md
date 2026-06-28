@@ -1,36 +1,17 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# โปรเจ็ก next-rujirada-portfolio-app
 
-## Getting Started
+## พัฒนาด้วยเครื่องมือ : Next.js
 
-First, run the development server:
+<kbd><img width="250" alt="172 20 10 3_2548_(iPhone 14 Pro Max)" src="https://github.com/user-attachments/assets/addb11b8-8384-4655-a713-6bf6c145a4bb" /></kbd>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<kbd><img width="250" alt="172 20 10 3_2548_about(iPhone 14 Pro Max)" src="https://github.com/user-attachments/assets/772f932e-ed04-4b38-ab4c-8da759f135b7" /></kbd>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<kbd><img width="250" alt="172 20 10 3_2548_me_skills(iPhone 14 Pro Max)" src="https://github.com/user-attachments/assets/1d188bb0-cde5-4363-92ba-f7de0f3877e8" /></kbd>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<br><br>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<kbd><img width="250" alt="172 20 10 3_2548_me_projects(iPhone 14 Pro Max)" src="https://github.com/user-attachments/assets/379a076d-d8e9-46fe-8be8-80a9cb4574e8" /></kbd>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<kbd><img width="250" alt="172 20 10 3_2548_me_gallery(iPhone 14 Pro Max)" src="https://github.com/user-attachments/assets/a2fcaa54-6018-4f8b-bc8c-a0fd4ae6d51e" /></kbd>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<kbd><img width="250" alt="172 20 10 3_2548_contact(iPhone 14 Pro Max)" src="https://github.com/user-attachments/assets/50975004-61ff-4d3e-928c-95a0ca62569e" /></kbd>
